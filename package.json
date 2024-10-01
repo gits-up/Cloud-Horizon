@@ -1,5 +1,5 @@
 {
-  "name": "jsm_banking",
+  "name": "gitsup_banking",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,6 +19,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "dwolla-v2": "^3.4.0",
+    "gitsup_banking": "file:",
     "jsm_banking": "file:",
     "lucide-react": "^0.446.0",
     "next": "14.2.13",
